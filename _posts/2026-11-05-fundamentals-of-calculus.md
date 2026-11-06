@@ -6,9 +6,7 @@ tags: [math, book]
 pin: true
 ---
 
-I've written a book on [topic]. You can read it online or download the PDF.
+I've written a book on Fundamentals of Calculus. You can read it online or download the PDF.
 
 - [Read online](https://kkdash61.github.io/fundamentals-of-calculus/)
 - [Download PDF](https://kkdash61.github.io/fundamentals-of-calculus/book.pdf)
-
-It updates automatically whenever I revise it.

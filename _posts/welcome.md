@@ -1,6 +1,6 @@
 ---
 title: Welcome
-date: 2026-11-05 11:00:00 -0500
+date: 2026-11-05 11:00:00 +0530
 categories: [General]
 tags: [intro]
 math: true

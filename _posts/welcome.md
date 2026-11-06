@@ -1,0 +1,13 @@
+---
+title: Welcome
+date: 2026-11-05 11:00:00 -0500
+categories: [General]
+tags: [intro]
+math: true
+---
+
+My first post. Euler's identity: $e^{i\pi} + 1 = 0$
+
+$$
+\int_0^1 x^2 \, dx = \frac{1}{3}
+$$
